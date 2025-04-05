@@ -7,7 +7,6 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
 	const [isRunning, setIsRunning] = useState(false);
 
 	const triggerSnake = () => {
-		console.log('Snake triggered ✅');
 		setIsRunning(true);
 	};
 
