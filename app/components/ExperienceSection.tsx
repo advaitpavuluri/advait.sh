@@ -20,16 +20,16 @@ const ExperienceSection = () => {
 		},
 		{
 			role: 'Programmer',
-			company: 'Harvard Division of Medical Sciences – Pinello Lab',
+			company: 'Harvard University Division of Medical Sciences – Pinello Lab',
 			period: '2021.06 - 2022.06',
 			highlights: 'Developed a visualization library to visualize the organismal development of single cell epigenomics through AI prediction models.',
 		},
-		{
-			role: 'Code Next Engineer',
-			company: 'Google',
-			period: '2020.09 - 2021.06',
-			highlights: 'Created ML-involving projects using Raspberry Pi, C# video game prototypes (showcased during the end-of-year Code Next event), music in Python using EarSketch, and undertook various other coding ventures with the guidance of engineers at the Google Creative Lab in Chelsea, NY.',
-		},
+		// {
+		// 	role: 'Code Next Engineer',
+		// 	company: 'Google',
+		// 	period: '2020.09 - 2021.06',
+		// 	highlights: 'Created ML-involving projects using Raspberry Pi, C# video game prototypes (showcased during the end-of-year Code Next event), music in Python using EarSketch, and undertook various other coding ventures with the guidance of engineers at the Google Creative Lab in Chelsea, NY.',
+		// },
 	];
 
 	return (
