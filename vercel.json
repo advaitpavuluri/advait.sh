@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/Resume.pdf",
+        "destination": "/Advait Pavuluri Résumé.pdf",
+        "permanent": true
+      }
+    ]
+  }
+  

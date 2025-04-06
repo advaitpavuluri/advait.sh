@@ -119,7 +119,8 @@ const ProfileSection = ({ triggerSnake }: Props) => {
 							</svg>
 						</a>
 						<a
-							href="/Advait Pavuluri Résumé.pdf"
+							//href="/Advait Pavuluri Résumé.pdf"
+							href="/Resume.pdf"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="inline-block mt-2 px-4 py-1.5 text-sm font-medium text-white bg-purple-600 rounded hover:bg-purple-700 transition"
